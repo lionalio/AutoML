@@ -1,0 +1,4 @@
+pandas>=1.3.0
+flaml>=0.9.0
+nltk>=3.5.0
+gensim>=3.8.0
